@@ -1,0 +1,5 @@
+{
+  "name": "DriverLink Logistics",
+  "description": "A logistics and tracking application for drivers. Features include real-time GPS tracking, shift management, offline data queuing, and a low-data mode for efficient operation.",
+  "requestFramePermissions": []
+}
